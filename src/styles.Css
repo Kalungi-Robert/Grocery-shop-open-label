@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn {
+  color: #dfd5d5;
+  background: rgb(203, 10, 16);
+  font-size: 25px;
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 12px 18px;
+  border-radius: 50px;
+}
+
+.close{
+
+background: red;
+}
+
+.open{
+background: yellow;
+}
